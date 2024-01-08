@@ -1,5 +1,7 @@
 ### Hi there 👋
+I Jaswanth Kranthi Boppana Currently pursuing my Masters in Data Science From Indina University Bloomington USA. I Enjoy working with Real time data and creating fun filled projects using Machine Leanring and Computer vision. You can view my LinkedIn at https://www.linkedin.com/in/jaswanth-kranthi/. 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kranthi101010)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **kranthi101010/kranthi101010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
