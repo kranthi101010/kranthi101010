@@ -1,6 +1,6 @@
 ### Hi there 👋, Jaswanth Kranthi
 #### Understand and Implement
-![Understand and Implement](https://media.licdn.com/dms/image/D5616AQG15lsaB8TS_w/profile-displaybackgroundimage-shrink_350_1400/0/1704678866500?e=1710374400&v=beta&t=J-x89HlOKTrM5XLEJjYMy76HcqensNzSc9vcUZzWFe8)
+![Understand and Implement](https://diceanalytics.pk/wp-content/uploads/2019/04/1450.jpg)
 
 I Jaswanth Kranthi Boppana Currently pursuing my Masters in Data Science From Indina University Bloomington USA. I Enjoy working with Real time data and creating fun filled projects using Machine Leanring and Computer vision.
 
