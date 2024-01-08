@@ -1,6 +1,6 @@
 ### Hi there 👋, Jaswanth Kranthi
 #### Understand and Implement
-![Understand and Implement](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Understand and Implement](https://www.canva.com/design/DAF5QZoedB4/1DCcEcaMoREEupa6Cx2PNg/view?utm_content=DAF5QZoedB4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 I Jaswanth Kranthi Boppana Currently pursuing my Masters in Data Science From Indina University Bloomington USA. I Enjoy working with Real time data and creating fun filled projects using Machine Leanring and Computer vision.
 
