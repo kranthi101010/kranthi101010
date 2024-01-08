@@ -1,6 +1,6 @@
 ### Hi there 👋, Jaswanth Kranthi
 #### Understand and Implement
-![Understand and Implement](https://www.canva.com/design/DAF5QZoedB4/1DCcEcaMoREEupa6Cx2PNg/view?utm_content=DAF5QZoedB4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+![Understand and Implement](https://media.licdn.com/dms/image/D5616AQG5IskhxbZrqQ/profile-displaybackgroundimage-shrink_350_1400/0/1692985862520?e=1710374400&v=beta&t=jkV2LxwvEnIBasbmpYJSX_dMjs9cyyDcSsSN0FDozqA)
 
 I Jaswanth Kranthi Boppana Currently pursuing my Masters in Data Science From Indina University Bloomington USA. I Enjoy working with Real time data and creating fun filled projects using Machine Leanring and Computer vision.
 
