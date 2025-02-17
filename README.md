@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AWS, Multimodals**
 
-- 👯 I’m looking for Opportunities In **Machine Learning | Data sciece**
+- 👯 I’m looking for Opportunities In **Machine Learning | Data science**
 
 - 💬 Ask me about **AI, LLMs , RAGs, Computer vision, Deep Learning**
 
